@@ -3,3 +3,5 @@ telegram
 asyncio
 selenium==4.1.0
 python-telegram-bot==13.0
+selenium
+pyppeteer
