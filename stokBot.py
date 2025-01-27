@@ -4,11 +4,11 @@ from selenium.webdriver.common.by import By
 from telegram import Bot
 
 # Telegram bot token'ınızı buraya yazın
-TOKEN = ''
-CHAT_ID = ''  # Botu başlattığınızda kendinize mesaj göndermek için chat_id'yi buraya yazın
+TOKEN = '7371962788:AAFXLAeUsUPZTRquDfvluumLW9zB30fAXC0'
+CHAT_ID = '1964874903'  # Botu başlattığınızda kendinize mesaj göndermek için chat_id'yi buraya yazın
 
 # Ürünün sayfasının URL'si
-url = ""
+url = "https://www.zara.com/tr/en/oversized-padded-water-repellent-jacket-p01255792.html?v1=366156546&v2=2419032&utm_campaign=productShare&utm_medium=mobile_sharing_Android&utm_source=red_social_movil"
 
 # WebDriver'ı başlat
 driver = webdriver.Chrome()
