@@ -42,4 +42,4 @@ The project is a practical example of combining web scraping, asynchronous progr
 
 3. **Execution:**
    ```bash
-   python stock_bot.py
+   python stokBot.py
