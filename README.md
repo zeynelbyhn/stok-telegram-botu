@@ -1,4 +1,4 @@
-# 🤖 Telegram Stock Notifier (Python)
+# 🤖 Telegram Stock BOT (Python)
 
 ## 📝 Description
 This is a real-time **Stock Monitoring Bot** developed in Python. It leverages **Selenium WebDriver** for browser automation to check product availability on e-commerce websites dynamically. Once a change in stock status is detected, the bot instantly notifies the user via the **Telegram Bot API**.
